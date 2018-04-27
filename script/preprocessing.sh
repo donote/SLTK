@@ -43,6 +43,4 @@ python3 ../preprocessing.py \
     --root_idx_dev ../data/dev_idx \
     --root_idx_test ../data/test_idx \
     --rv ../res/voc/ \
-    --pe ../../PubMed-and-PMC-w2v.bin \
-    --re ../res/embed \
     --pt 100
